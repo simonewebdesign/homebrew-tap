@@ -1,3 +1,5 @@
+![brew test-bot](https://github.com/simonewebdesign/homebrew-tap/workflows/brew%20test-bot/badge.svg)
+
 This is a Homebrew [tap](https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md) repository that provides the formula for [`elm-new`](https://github.com/simonewebdesign/elm-new).
 
 In other words, it lets you install [`elm-new`](https://github.com/simonewebdesign/elm-new) like this:
