@@ -1,8 +1,8 @@
 ![brew test-bot](https://github.com/simonewebdesign/homebrew-tap/workflows/brew%20test-bot/badge.svg)
 
-This is a Homebrew [tap](https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md) repository that provides the formula for [`elm-new`](https://github.com/simonewebdesign/elm-new).
+This is a Homebrew [tap](https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md) repository that provides a few formulas (i.e. package definitions).
 
-In other words, it lets you install [`elm-new`](https://github.com/simonewebdesign/elm-new) like this:
+In other words, it lets you install tools such as [`elm-new`](https://github.com/simonewebdesign/elm-new) like this:
 
     brew install simonewebdesign/tap/elm-new
 
@@ -10,13 +10,9 @@ Or, to upgrade:
 
     brew upgrade elm-new
 
-For other ways to install [`elm-new`](https://github.com/simonewebdesign/elm-new), [see here](https://github.com/simonewebdesign/elm-new#installation).
-
 ---
 
-At the moment, [`elm-new`](https://github.com/simonewebdesign/elm-new) is the only formula available in this tap. Hopefully there will be more in the future.
-
-If there were other formulas to install, this would be the generic shell command to run:
+This is the generic shell command to run in order to install any formula from this tap:
 
     brew install simonewebdesign/tap/<formula>
 
